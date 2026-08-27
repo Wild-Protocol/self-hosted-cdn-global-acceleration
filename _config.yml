@@ -1,0 +1,18 @@
+theme: minima
+
+title: "网站出海与自建 CDN"
+description: "介绍海外网站访问缓慢的原因，以及通过自建 CDN、缓存、多级回源和智能调度改善访问速度的实际思路。"
+lang: "zh-CN"
+
+url: "https://wild-protocol.github.io"
+baseurl: "/self-hosted-cdn-global-acceleration"
+
+author: "Wild-Protocol"
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
